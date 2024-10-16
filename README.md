@@ -8,14 +8,10 @@ Holding a Master's degree in Computer Science with a specialization in Web Techn
 🔧 Python Development
 
 With over 3 years of experience as a Python Developer, I’ve successfully built efficient, scalable, and maintainable backend systems and automation tools. My expertise includes:
-Backend Development: Proficient in frameworks like Flask and Django.
+Backend Development: Proficient in utilizing Python and SQL databases and frameworks like Django.
 Automation: Creating scripts for data processing pipelines and routine tasks.
 Data Tools: Developing tools for data extraction, transformation, and analysis.
-
-🌐 Web Development
-
-Backend Development: Utilizing Python and SQL databases.
-Mentorship: Teaching modern web development practices to students and professionals.
+Mentorship: Taught modern web development practices to students.
 
 📊 Data Analytics and Visualization
 
