@@ -8,15 +8,14 @@ Holding a Master's degree in Computer Science with a specialization in Web Techn
 
 🔧 Python Development
 
-With over 3 years of experience as a Python Developer, I’ve successfully built efficient, scalable, and maintainable backend systems and automation tools. My expertise includes:
+With over 3 years of experience as a Python Developer, built efficient, scalable, and maintainable backend systems and automation tools. My expertise includes:
 Backend Development: Proficient in utilizing Python and SQL databases and frameworks like Django.
 Automation: Creating scripts for data processing pipelines and routine tasks.
-Data Tools: Developing tools for data extraction, transformation, and analysis.
 Mentorship: Taught modern web development practices to students.
 
 📊 Data Analytics and Visualization
 
-Currently focused on Data Analytics projects, I employ advanced tools and techniques, including:
+Currently focused on Data Analytics projects, aiming to employ advanced tools and techniques, including:
 Tableau: Crafting interactive dashboards and visual analytics.
 Python: Performing data wrangling, imputation, and exploratory data analysis (EDA).
 SQL: Executing complex queries, data aggregation, and transformation.
@@ -24,7 +23,7 @@ Excel: Utilizing advanced functions for data analysis and reporting.
 
 🎓Mentoring and Training
 
-With 5+ years of experience in education, I have guided students and professionals in subjects like Software Engineering, Web Development, Python, SQL, Excel, and Tableau. My approach focuses on simplifying complex concepts and fostering a strong foundational understanding of technology.
+With 5+ years of experience in education, guided students in subjects like Software Engineering, Web Development, Python, SQL, Excel, and Tableau. focused on simplifying complex concepts and fostering a strong foundational understanding of technology.
 
 🚀 Current Focus
 
