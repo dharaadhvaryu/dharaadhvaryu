@@ -1,9 +1,8 @@
 ## Hi there 👋
 
- About Me
-I am an M.Tech graduate in Computer Science specializing in Web Technology. With a strong academic and industry foundation, I have a diverse background in software engineering, web development, and data analytics. I am genuinely passionate about leveraging technology to solve real-world problems and empower businesses with data-driven insights.
 
- Expertise
+I am an M.Tech graduate in Computer Science specializing in Web Technology. With a strong academic and industry foundation, I have a diverse background in software engineering, web development, and data analytics. I am genuinely passionate about leveraging technology to solve real-world problems and empower businesses with data-driven insights.
+Expertise
 Over the years, I have developed deep proficiency in the following areas:
 
 Python Development
@@ -27,14 +26,13 @@ Having been a teacher and trainer in subjects like Software Engineering, Web Dev
 
 🚀 My Current Focus
 I’m currently expanding my expertise in Data Analytics by working on projects that involve:
-
 Data Cleaning and Exploratory Data Analysis (EDA).
 Applying statistical modeling and machine learning to derive actionable insights.
 Building data pipelines and integrating advanced business intelligence tools.
 Analyzing large datasets to inform strategic business decisions.
+
 🎯 Future Goals
 I am looking forward to transitioning into a full-time Data Analytics role, where I can:
-
 Apply my technical skills to solve business challenges.
 Collaborate with cross-functional teams to derive insights and drive strategy.
 Continuously improve my knowledge in data science, analytics, and machine learning.
