@@ -1,28 +1,28 @@
 ## Hi there 👋
 
 
-I am an M.Tech graduate in Computer Science specializing in Web Technology. With a strong academic and industry foundation, I have a diverse background in software engineering, web development, and data analytics. I am genuinely passionate about leveraging technology to solve real-world problems and empower businesses with data-driven insights.
-Expertise
-Over the years, I have developed deep proficiency in the following areas:
+I am an M.Tech graduate in Computer Science specializing in Web Technology. With over 5+ years of experience in mentoring and training and 3 years of hands-on Python development, I have a diverse background in software engineering, web development, and data analytics. My goal is to leverage my skills in creating innovative solutions and empowering businesses through data-driven insights.
+
+🌟 Expertise
+I bring a wide range of expertise across several domains:
 
 Python Development
-I have 3+ years of experience as a Python Developer, working on backend systems, data processing pipelines, automation, and various scripting tasks. My skills include:
-
-Writing clean, efficient, and maintainable code.
-Working with frameworks such as Flask and Django for web development.
-Utilizing Python for data analysis, automation scripts, and process optimization.
+With 3+ years of experience as a Python Developer, I have built efficient, scalable, and maintainable backend systems and automation tools. My Python skills include:
+Backend development with frameworks like Flask and Django.
+Writing automation scripts for data processing pipelines and routine tasks.
+Building tools for data extraction, transformation, and analysis.
 Web Development
-My background in Web Technology allows me to create robust, scalable web applications. I have expertise in:
-Backend development using Python frameworks and databases.
-Teaching and mentoring students in web development principles and modern web technologies.
+Backend development with Python and SQL databases.
+Teaching students and professionals modern web development practices.
 Data Analytics and Visualization
-Currently, I’m working on several Data Analytics projects, utilizing my experience with tools like:
-Power BI and Tableau for creating dynamic dashboards and visual reports.
-Python for Data Wrangling Imputation and Exploration
-SQL for querying large datasets and performing complex data transformations.
-Excel for data manipulation, advanced functions, and reporting.
-Teaching and Mentorship
-Having been a teacher and trainer in subjects like Software Engineering, Web Development, Python, SQL, Excel, and Power BI, I’m passionate about sharing my knowledge. I enjoy breaking down complex topics and helping others understand core concepts in technology and programming.
+Currently focused on Data Analytics projects, I utilize advanced tools and techniques such as:
+Power BI for building interactive dashboards and visual analytics.
+Python for Data Wrangling Imputations and Explorations
+SQL for performing complex queries, data aggregation, and transformation.
+Excel for data analysis and reporting, including the use of advanced formulas and functions.
+Mentoring and Training
+With over 5+ years of experience teaching subjects like Software Engineering, Web Development, Python, SQL, Excel, and Power BI, I have mentored students and professionals at all levels. I focus on making complex concepts easy to understand and helping learners build strong foundations in technology.
+
 
 🚀 My Current Focus
 I’m currently expanding my expertise in Data Analytics by working on projects that involve:
