@@ -1,6 +1,7 @@
 ## Hi there 👋  
 
 👋 About Me
+
 Holding a Master's degree in Computer Science with a specialization in Web Technology, I bring 5+ years of mentoring and training experience, along with 3 years of hands-on Python development. My diverse background spans software engineering, web development, and data analytics, with a commitment to leveraging technology to create innovative solutions and empower businesses through data-driven insights.
 
 🌟 Expertise
