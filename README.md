@@ -8,7 +8,7 @@ Expertise
 Python Development
 With over 3 years of experience as a Python Developer, I have successfully built efficient, scalable, and maintainable backend systems and automation tools. My expertise includes:
 
-Backend Development: Proficient in frameworks like Flask and Django.
+Backend Development: Proficient in frameworks Django.
 Automation: Creating scripts for data processing pipelines and routine tasks.
 Data Tools: Developing tools for data extraction, transformation, and analysis.
 Web Development
@@ -16,7 +16,6 @@ Backend Development: Utilizing Python and SQL databases.
 Mentorship: Teaching modern web development practices to students and professionals.
 Data Analytics and Visualization
 Currently focused on Data Analytics projects, I employ advanced tools and techniques, including:
-
 Power BI: Crafting interactive dashboards and visual analytics.
 Python: Performing data wrangling, imputations, and exploratory data analysis.
 SQL: Executing complex queries, data aggregation, and transformation.
