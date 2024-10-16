@@ -27,7 +27,7 @@ With 5+ years of experience in education, guided students in subjects like Softw
 
 🚀 Current Focus
 
-I’m expanding my expertise in Data Analytics through projects involving:
+expanding my expertise in Data Analytics through projects involving:
 Data Cleaning and Exploratory Data Analysis (EDA).
 Statistical Modeling and Machine Learning: Deriving actionable insights from data.
 Data Pipelines: Integrating advanced business intelligence tools.
@@ -36,7 +36,7 @@ Strategic Analysis: Analyzing large datasets to inform business decisions.
 .
 🎯 Future Goals
 
-I aim to transition into a full-time Data Analytics role where I can:
+Aiming to transition into a full-time Data Analytics role so that I can apply :
 Apply my technical skills to address business challenges.
 Collaborate with cross-functional teams to drive strategic insights.
 Continuously enhance my knowledge in data science, analytics, and machine learning.
