@@ -1,28 +1,40 @@
 ## Hi there 👋  
 
 👋 About Me
-I am an M.Tech graduate in Computer Science with a specialization in Web Technology. With over 5+ years of experience in mentoring and training and 3 years of hands-on Python development, I have a diverse background in software engineering, web development, and data analytics. My goal is to leverage my skills in creating innovative solutions and empowering businesses through data-driven insights.
+Holding a Master's degree in Computer Science with a specialization in Web Technology, I bring 5+ years of mentoring and training experience, along with 3 years of hands-on Python development. My diverse background spans software engineering, web development, and data analytics, with a commitment to leveraging technology to create innovative solutions and empower businesses through data-driven insights.
 
-🌟 Key Skills
-🔧 Python Development (3+ years)
-
-Backend development with Flask and Django.
-Automation scripting for data processing.
-Experience in data extraction and analysis.
+🌟 Expertise
+🔧 Python Development
+With over 3 years of experience as a Python Developer, I’ve successfully built efficient, scalable, and maintainable backend systems and automation tools. My expertise includes:
+Backend Development: Proficient in frameworks like Flask and Django.
+Automation: Creating scripts for data processing pipelines and routine tasks.
+Data Tools: Developing tools for data extraction, transformation, and analysis.
 
 🌐 Web Development
-Proficient in HTML5, CSS3, JavaScript, and Python-based backend systems.
-Built web apps using SQL databases.
+Backend Development: Utilizing Python and SQL databases.
+Mentorship: Teaching modern web development practices to students and professionals.
 
-📊 Data Analytics & Visualization
-Strong in SQL and Tableau for data analysis and visualization.
-Expertise in data cleaning and exploratory data analysis  using Python (EDA).
-Developed interactive dashboards for business insights.
+📊 Data Analytics and Visualization
+Currently focused on Data Analytics projects, I employ advanced tools and techniques, including:
+Tableau: Crafting interactive dashboards and visual analytics.
+Python: Performing data wrangling, imputation, and exploratory data analysis (EDA).
+SQL: Executing complex queries, data aggregation, and transformation.
+Excel: Utilizing advanced functions for data analysis and reporting.
 
+🎓Mentoring and Training
+With 5+ years of experience in education, I have guided students and professionals in subjects like Software Engineering, Web Development, Python, SQL, Excel, and Tableau. My approach focuses on simplifying complex concepts and fostering a strong foundational understanding of technology.
 
-🎓 Mentoring & Training (5+ years)
-Provided Training to students and professionals in Python, SQL, Excel, Tableau, and Web Development.
-Simplified complex concepts for easy learning
+🚀 Current Focus
+I’m expanding my expertise in Data Analytics through projects involving:
+Data Cleaning and Exploratory Data Analysis (EDA).
+Statistical Modeling and Machine Learning: Deriving actionable insights from data.
+Data Pipelines: Integrating advanced business intelligence tools.
+Strategic Analysis: Analyzing large datasets to inform business decisions.
 
+.
 🎯 Future Goals
-I’m seeking a role in Data Analytics where I can apply my skills to solve business problems and drive data-driven insights. I’m always eager to learn and contribute to impactful projects.
+I aim to transition into a full-time Data Analytics role where I can:
+Apply my technical skills to address business challenges.
+Collaborate with cross-functional teams to drive strategic insights.
+Continuously enhance my knowledge in data science, analytics, and machine learning.
+Feel free to connect for collaboration, mentorship, or discussions on data-driven solutions. Let's code the future, one project at a time! 💻
