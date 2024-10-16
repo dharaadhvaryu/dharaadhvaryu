@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am an M.Tech graduate in Computer Science specializing in Web Technology. With over 5+ years of experience in mentoring and training and 3 years of hands-on Python development, I have a diverse background in software engineering, web development, and data analytics. My goal is to leverage my skills in creating innovative solutions and empowering businesses through data-driven insights.
+I am an M.Tech in Computer Science specializing in Web Technology. With over 5+ years of experience in mentoring and training and 3 years of hands-on Python development, I have a diverse background in software engineering, web development, and data analytics. My goal is to leverage my skills in creating innovative solutions and empowering businesses through data-driven insights.
 
 🌟 Expertise
 I bring a wide range of expertise across several domains:
